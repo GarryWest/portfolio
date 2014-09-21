@@ -1,0 +1,23 @@
+body {
+	background-color: #CCE6FF;
+}
+
+a:link {
+    color: #008B45;
+}
+
+a:hover {
+    color: blue;
+}
+
+a:visited {
+    color: blue;
+}
+
+h3 {
+	font-family: Verdana, sans-serif;
+}
+
+li {
+	font-family: Calibri, sans-serif;
+}
