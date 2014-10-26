@@ -40,24 +40,6 @@ p,li {
 	font-family: Calibri, sans-serif;
 }
 /* Positioning and Layout */
-#container {
-	/*position: relative;*/
-	width: 100%;
-}
-
-#header {
-	position: fixed;
-	top: 0px;
-	left: 0px;
-	right: 0px;
-	/*width: 100%;*/
-	padding-top: 10px;
-	padding-left:  50px;
-	border: 8px solid #565E5E; 
-	/*border-radius: 100px;*/
-	background: #CCCCCC;
-}
-
 .content {
 	/*position: relative;*/
 	/*width: 100%;*/
